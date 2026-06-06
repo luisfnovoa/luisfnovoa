@@ -1,30 +1,26 @@
-# ⚡ Magister | Critical Infrastructure & OT Security Researcher
+⚡ Magister | Systems Architect & Critical Infrastructure Researcher
+Focus: Cyber-Physical Resilience, Industrial Logic & Deception
 
-Focused on the convergence of **Biomedical Systems**, **Industrial Automation (OT)**, and **Hardened IT Environments**. I design, simulate, and stress-test cyber-physical ecosystems to ensure operational resilience against modern threat vectors.
+Architecting and stress-testing cyber-physical ecosystems. Specialized in the convergence of OT, telemetry, and hardened environments. I focus on high-precision technical delivery—engineering resilient systems for environments where failure is not an option and every line of code must be hardened.
 
----
+🚀 Core Vectors
 
-## 🌐 Core Vectors of Interest
+OT & Automation Logic: PLC state emulation and deterministic communication. I map system logic to identify and neutralize vulnerabilities before they can be exploited.
 
-### 🏥 Biomedical & Process Telemetry
-* Industrial safety thresholds and critical sensor metrics validation.
-* Defining hardware-level boundaries to prevent logic exploits from causing physical damage.
+Biomedical & Telemetry: Hardening critical thresholds. Designing hardware-level boundaries to prevent logic exploits from escalating into physical incidents.
 
-### 🕹️ OT & Automation Logic
-* PLC (Programmable Logic Controller) state emulation and deterministic communication.
-* Orchestrating secure industrial data pipelines using custom Python architectures.
+Active Defense (The Offensive Edge): Beyond static defense. I deploy bespoke honeypots and deception architectures to proactively identify and trap intruders at the perimeter.
 
-### 🔒 Defensive Cyber-Security
-* Active defense mechanics through tailored honeypots and deception tactics.
-* Cryptographic identity protection and hardened access controls for critical nodes.
+Hardened Infrastructure: Cryptographic identity protection and zero-trust implementation for critical nodes. Systems built to survive in hostile environments.
 
----
+🛠️ Active Projects
 
-## 🛠️ Active Deployments
+Kronos Operational Hub: A private simulation lab. The sandbox where I stress-test telemetry, automation protocols, and credential handling to their breaking point.
 
-* 🛸 **[Kronos Operational Hub](./python): ** A simulation lab bridging the gap between process telemetry, automation protocols, and secure credential handling.
+📫 Engagement & Approach
 
----
+Consulting / Incident Response: I solve systemic failures and engineer resilience where others find complexity.
 
-## 📫 Communications
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/luisn202]
+Professional Alignment: I operate as a dedicated technical partner. My focus is strictly on architectural integrity, operational results, and clear objectives. I provide the depth and the edge required for high-stakes environments.
+
+💼 LinkedIn | Focus: Systems Research, Resilience, & Deception Tactics.
