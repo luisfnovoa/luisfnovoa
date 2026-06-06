@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @luisfnovoa
-- 👀 I’m interested in ... Data Analyst, Big Data, Data Science, Python, Quality Assurance, Software Testing.
-- 🌱 I’m currently learning ... Python, Excel and Software testing tools
-  - 💞️ I’m looking to collaborate on ... Jobs related to Python, Data Analyst, Data Science, Software Testing, Quality Assurance.
-- 📫 How to reach me ... Through Linkedin most likely.
+# ⚡ Magister | Critical Infrastructure & OT Security Researcher
 
-<!---
-luisfnovoa/luisfnovoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Focused on the convergence of **Biomedical Systems**, **Industrial Automation (OT)**, and **Hardened IT Environments**. I design, simulate, and stress-test cyber-physical ecosystems to ensure operational resilience against modern threat vectors.
+
+---
+
+## 🌐 Core Vectors of Interest
+
+### 🏥 Biomedical & Process Telemetry
+* Industrial safety thresholds and critical sensor metrics validation.
+* Defining hardware-level boundaries to prevent logic exploits from causing physical damage.
+
+### 🕹️ OT & Automation Logic
+* PLC (Programmable Logic Controller) state emulation and deterministic communication.
+* Orchestrating secure industrial data pipelines using custom Python architectures.
+
+### 🔒 Defensive Cyber-Security
+* Active defense mechanics through tailored honeypots and deception tactics.
+* Cryptographic identity protection and hardened access controls for critical nodes.
+
+---
+
+## 🛠️ Active Deployments
+
+* 🛸 **[Kronos Operational Hub](./python):** A simulation lab bridging the gap between process telemetry, automation protocols, and secure credential handling.
+
+---
+
+## 📫 Communications
+* 💼 **LinkedIn:** [Insert your LinkedIn Link Here]
