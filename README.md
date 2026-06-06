@@ -22,9 +22,9 @@ Focused on the convergence of **Biomedical Systems**, **Industrial Automation (O
 
 ## 🛠️ Active Deployments
 
-* 🛸 **[Kronos Operational Hub](./python):** A simulation lab bridging the gap between process telemetry, automation protocols, and secure credential handling.
+* 🛸 **[Kronos Operational Hub](./python): ** A simulation lab bridging the gap between process telemetry, automation protocols, and secure credential handling.
 
 ---
 
 ## 📫 Communications
-* 💼 **LinkedIn:** [Insert your LinkedIn Link Here]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/luisn202]
