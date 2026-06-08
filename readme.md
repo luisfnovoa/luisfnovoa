@@ -13,6 +13,12 @@ Architecting and stress-testing cyber-physical ecosystems. Specialized in the co
 * **Active Defense (The Offensive Edge)**: Deploying bespoke honeypots and deception architectures to proactively identify and trap intruders at the perimeter.
 * **Hardened Infrastructure**: Cryptographic identity protection and zero-trust implementation for critical nodes. Systems built to survive in hostile environments.
 
+### 🛠️ Tech Stack & Proficiency
+* **Languages:** C, C++, Java, R, Python.
+* **Infrastructure:** Docker, Kubernetes (Hardened clusters), Terraform.
+* **Security Tools:** Wireshark, Burp Suite, Custom Honeypot frameworks.
+* **Networking:** Deterministic comms, VPN & Encryption protocols.
+* 
 ### 🛠️ Active Projects
 * [**Kronos Operational Hub**](https://github.com/luisfnovoa/critical-hub): A private simulation lab. The sandbox for stress-testing telemetry, automation protocols, and credential handling.
 * [**Identity Vault**](https://github.com/luisfnovoa/identity-vault): Cryptographic key generation and secure credential hardening utility for high-entropy identity management.
