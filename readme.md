@@ -1,32 +1,34 @@
-# Magister | Systems Architect & Critical Infrastructure Researcher
+Magister | Systems Architect & Critical Infrastructure Researcher
+🧪 Critical Infrastructure & OT Security Researcher. Bridging the gap between Biomedical systems, Automation logic, and Hardened IT environments.
 
-🧪 **Critical Infrastructure & OT Security Researcher.** Bridging the gap between Biomedical systems, Automation logic, and Hardened IT environments.
-
----
-
-### 🏛️ Operational Philosophy
+🏛️ Operational Philosophy
 Architecting and stress-testing cyber-physical ecosystems. Specialized in the convergence of OT, telemetry, and hardened environments. I focus on high-precision technical delivery—engineering resilient systems for environments where failure is not an option and every line of code must be hardened.
 
-### 🚀 Core Vectors
-* **OT & Automation Logic**: PLC state emulation and deterministic communication. Mapping system logic to identify and neutralize vulnerabilities before exploitation.
-* **Biomedical & Telemetry**: Hardening critical thresholds. Designing hardware-level boundaries to prevent logic exploits from escalating into physical incidents.
-* **Active Defense (The Offensive Edge)**: Deploying bespoke honeypots and deception architectures to proactively identify and trap intruders at the perimeter.
-* **Hardened Infrastructure**: Cryptographic identity protection and zero-trust implementation for critical nodes. Systems built to survive in hostile environments.
+🚀 Core Vectors
+OT & Automation Logic: PLC state emulation and deterministic communication. Mapping system logic to identify and neutralize vulnerabilities before exploitation.
 
-### 🛠️ Tech Stack & Proficiency
-* **Languages:** C, C++, Java, R, Python.
-* **Infrastructure:** Docker, Kubernetes (Hardened clusters), Terraform.
-* **Security Tools:** Wireshark, Burp Suite, Custom Honeypot frameworks.
-* **Networking:** Deterministic comms, VPN & Encryption protocols.
-* 
-### 🛠️ Active Projects
-* [**Kronos Operational Hub**](https://github.com/luisfnovoa/critical-hub): A private simulation lab. The sandbox for stress-testing telemetry, automation protocols, and credential handling.
-* [**Identity Vault**](https://github.com/luisfnovoa/identity-vault): Cryptographic key generation and secure credential hardening utility for high-entropy identity management.
+Biomedical & Telemetry: Hardening critical thresholds. Designing hardware-level boundaries to prevent logic exploits from escalating into physical incidents.
 
-### 📫 Engagement & Approach
-* **Consulting / Incident Response**: I solve systemic failures and engineer resilience where others find complexity.
-* **Professional Alignment**: I operate as a dedicated technical partner. Focus is strictly on architectural integrity, operational results, and clear objectives.
+Active Defense (The Offensive Edge): Deploying bespoke honeypots and deception architectures to proactively identify and trap intruders at the perimeter.
 
----
+Hardened Infrastructure: Cryptographic identity protection and zero-trust implementation for critical nodes. Systems built to survive in hostile environments.
 
-💼 [LinkedIn](https://www.linkedin.com/) | Focus: Systems Research, Resilience, & Deception Tactics.
+🛠️ Tech Stack & Proficiency
+Languages: C, C++, Java, R, Python.
+
+Infrastructure: Docker, Kubernetes (Hardened clusters), Terraform.
+
+Security Tools: Wireshark, Burp Suite, Custom Honeypot frameworks.
+
+Networking: Deterministic comms, VPN & Encryption protocols.
+
+🛠️ Active Projects
+Kronos Operational Hub: A private simulation lab. The sandbox for stress-testing telemetry, automation protocols, and credential handling.
+
+Identity Vault: Cryptographic key generation and secure credential hardening utility for high-entropy identity management.
+
+Java-Lab (Enterprise Sandbox): Research-oriented repository focused on Java EE/Jakarta EE lifecycle management and secure transaction logic.
+
+BunkerFinal Module: Auth flow control and HTTP transaction integrity validation.
+
+SmartNumberGuesser (SNG): JSF lifecycle optimization sandbox, including architectural blueprints and reverse-engineering logs.
