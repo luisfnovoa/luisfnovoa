@@ -20,7 +20,7 @@ Architecting and stress-testing cyber-physical ecosystems. Specialized in the co
 * **Networking:** Deterministic comms, VPN & Encryption protocols.
 
 ### 🛠️ Active Projects
-* **[Kronos Operational Hub](https://github.com/luisfnovoa/critical-hub):** A private simulation lab. The sandbox for stress-testing telemetry, automation protocols, and credential handling.
+* **[Kronos Operational Hub](https://github.com/luisfnovoa/critical-hub_v2):** A private simulation lab. The sandbox for stress-testing telemetry, automation protocols, and credential handling.
 * **[Identity Vault](https://github.com/luisfnovoa/identity-vault):** Cryptographic key generation and secure credential hardening utility for high-entropy identity management.
 * **[Java-Lab (Enterprise Sandbox)](https://github.com/luisfnovoa/java-lab):** Research-oriented repository focused on Java EE/Jakarta EE lifecycle management and secure transaction logic.
     * **BunkerFinal Module:** Auth flow control and HTTP transaction integrity validation.
