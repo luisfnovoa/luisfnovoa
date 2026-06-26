@@ -33,4 +33,4 @@ Architecting and stress-testing cyber-physical ecosystems. Specialized in the co
 *   **Consulting / Incident Response:** I solve systemic failures in privilege management and engineer resilience where others find complexity.
 *   **Professional Alignment:** I operate as a dedicated technical partner. Focus is strictly on architectural integrity, operational results, and clear objectives.
 
-💼 [LinkedIn | Focus: Identity Architecture, OT Resilience, & Deception Tactics](https://www.linkedin.com/in/luisnovoa202)
+💼 [LinkedIn | Focus: Identity Architecture, OT Resilience, & Deception Tactics](https://www.linkedin.com/in/luisn202)
